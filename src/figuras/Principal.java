@@ -1,3 +1,11 @@
+/************************************************
+ * Autor: Cristopher Alexis Zarate Valencia		*
+ * Fecha de creación: 23 mar. 2023				*
+ * Fecha de modificación: 23 mar. 2023			*
+ * Descripción: Clase principal que invoca a las
+ * 		clases.
+ ************************************************/
+
 package figuras;
 
 public class Principal {

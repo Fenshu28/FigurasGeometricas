@@ -1,3 +1,11 @@
+/************************************************
+ * Autor: Cristopher Alexis Zarate Valencia		*
+ * Fecha de creación: 14 abr. 2023				*
+ * Fecha de modificación: 15 abr. 2023			*
+ * Descripción: Clase abstracta de un poligono
+ * 		hereda de la clase Figura2D.
+ ************************************************/
+
 package figuras;
 
 public abstract class Poligono extends Figura2D{

@@ -1,3 +1,12 @@
+/************************************************
+ * Autor: Jose Angel Marquez Espina				*
+ * Fecha de creación: 14 abr. 2023				*
+ * Fecha de modificación: 15 abr. 2023			*
+ * Descripción: Clase romboide hereda de 
+ * 		Figura2D, sobreescribe métodos de area
+ * 		y perimetro.
+ ************************************************/
+
 package figuras;
 
 public class Romboide extends Figura2D {

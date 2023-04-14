@@ -1,3 +1,11 @@
+/************************************************
+ * Autor: Cristopher Alexis Zarate Valencia		*
+ * Fecha de creación: 14 abr. 2023				*
+ * Fecha de modificación: 15 abr. 2023			*
+ * Descripción: Clase abstracta de una figura
+ * 		con atributos pricipales de una figura.
+ ************************************************/
+
 package figuras;
 
 public abstract class Figura {
